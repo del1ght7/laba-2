@@ -1,0 +1,3 @@
+﻿  лаба 2.3.cpp
+C:\Users\User\Desktop\лаба 2.3\лаба 2.3.cpp(34,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  лаба 2.3.vcxproj -> C:\Users\User\Desktop\лаба 2.3\x64\Debug\лаба 2.3.exe
